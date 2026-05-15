@@ -12,9 +12,9 @@ A Blender add-on that instantly switches between the **Blender** keymap and the 
 
 ## Installation
 
-1. Open `Edit > Preferences > Add-ons`
-2. Click the `Install...` button in the top right
-3. Select `keymap_toggle.py` and click `Install Add-on`
+1. Download **`keymap_toggle.zip`** from the [Latest Release](https://github.com/NzuYoshikawa/blender-keymap-toggle/releases/latest)
+2. Open `Edit > Preferences > Add-ons`
+3. Click `Install...`, select `keymap_toggle.zip`, then click `Install Add-on`
 4. Enable **Keymap Toggle** by checking the checkbox in the list
 
 ---
@@ -96,9 +96,9 @@ Blender の「Blender 標準キーマップ」と「業界互換キーマップ�
 
 ## インストール
 
-1. `Edit > Preferences > Add-ons` を開く
-2. 右上の `Install...` ボタンをクリック
-3. `keymap_toggle.py` を選択して `Install Add-on` をクリック
+1. [最新のRelease](https://github.com/NzuYoshikawa/blender-keymap-toggle/releases/latest) から **`keymap_toggle.zip`** をダウンロード
+2. `Edit > Preferences > Add-ons` を開く
+3. `Install...` をクリックし、`keymap_toggle.zip` を選択して `Install Add-on` をクリック
 4. リストに表示された **Keymap Toggle** のチェックボックスをオンにして有効化
 
 ---
