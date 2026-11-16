@@ -161,3 +161,7 @@ for kc in bpy.context.window_manager.keyconfigs:
 |---|---|
 | 1.0.1 | キーマップ切り替えが即時反映されないバグを修正 |
 | 1.0.0 | 初回リリース |
+
+
+## 画像付き説明ページ(yoshikawastudio.com)
+https://yoshikawastudio.com/keymap-addon/
